@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Intro to Machine Learning/.idea/Intermediate Python for Data Science.iml" filepath="$PROJECT_DIR$/../Intro to Machine Learning/.idea/Intermediate Python for Data Science.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Intro to Machine Learning.iml" filepath="$PROJECT_DIR$/.idea/Intro to Machine Learning.iml" />
     </modules>
   </component>
 </project>
